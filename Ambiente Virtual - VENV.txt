@@ -1,0 +1,19 @@
+VENV: FERRAMENTA DO PYTHON QUE PERMITE CRIAR AMBIENTES VIRTUAIS ISOLADOS. ESSES AMBIENTES SÃO ÚTEIS PARA ISOLAR AS DEPÊNCIAS DE UM PROJETO, EVITANDO CONFLITOS ENTRE VERSÕES DE 
+PACOTES.
+
+CRIAÇÃO:  py -m venv .venv
+Cada projeto deve ser criado uma ambiente virtual "VENV". O ambiente virtual deve ser criado na pasta de cada projeto. 
+É uma boa prática chamar nossos ambientes virtuais de: .VENV
+
+Para ativação do ambiente VIRTUAL:
+
+.VENV\SCRIPTS\ACTIVATE
+
+
+DESATIVAÇÃO DA VENV:
+
+DEACTIVATE
+
+INSTALAÇÃO DA BIBLIOTECA REQUESTS:
+
+pip install requests
