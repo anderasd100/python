@@ -1,0 +1,65 @@
+Vamos falar um pouco do ambiente Virtual Venv Python:
+
+
+
+O ambiente virtual #Venv é uma ferramenta do #Python que cria um ambiente isolado para a execução de projetos. Ele permite que você instale pacotes e dependências específicas para um projeto sem afetar outras partes do sistema ou projetos diferentes. Isso é especialmente útil para evitar conflitos de versões entre pacotes e garantir que seu código seja executado de maneira consistente, independentemente do ambiente global do Python.
+
+
+
+Motivos para criar um ambiente virtual:
+
+Isolamento de dependências: Cada projeto pode ter diferentes versões de pacotes. Usando um ambiente virtual, você garante que as versões de pacotes instaladas para um projeto não afetem outro projeto.
+
+Evitar conflitos: Se você precisar de versões diferentes do mesmo pacote para projetos distintos, o ambiente virtual impede que esses conflitos aconteçam.
+
+Reprodutibilidade: Ao criar um ambiente isolado, é mais fácil compartilhar e reproduzir o mesmo ambiente em diferentes máquinas, pois você pode especificar todas as dependências necessárias no arquivo requirements.txt.
+
+Limpeza e organização: Você mantém o seu sistema limpo, sem instalar pacotes globalmente, o que pode gerar bagunça ou problemas futuros com versões.
+
+
+
+Como criar e usar um ambiente virtual:
+
+Criar o ambiente virtual: Primeiro, abra o terminal no diretório do seu projeto e execute:
+
+python -m venv nome_do_ambiente
+
+Isso criará uma pasta chamada nome_do_ambiente (ou qualquer nome que você escolher) contendo o ambiente isolado.
+
+É uma boa prática chamar nossos ambientes virtuais de: .VENV
+
+
+
+Ativar o ambiente virtual:
+
+No Windows:
+
+nome_do_ambiente\Scripts\activate
+
+
+
+Após ativar, o nome do ambiente aparecerá no início da linha de comando, indicando que você está dentro do ambiente virtual.
+
+
+
+Instalar pacotes no ambiente virtual: Uma vez que o ambiente esteja ativado, você pode usar o pip para instalar pacotes. Exemplo:
+
+pip install nome_do_pacote
+
+
+
+Desativar o ambiente virtual: Quando terminar de trabalhar no seu projeto, você pode sair do ambiente virtual com:
+
+deactivate
+
+
+
+Gerenciar dependências: Se você quiser salvar as dependências do seu projeto em um arquivo para poder instalá-las em outro lugar, pode usar o comando:
+
+pip freeze > requirements.txt
+
+
+
+Para instalar essas dependências em outro ambiente virtual, basta usar:
+
+pip install -r requirements.txt
