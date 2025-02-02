@@ -16,11 +16,11 @@ tupla = (2,3,4) #não é possível anexar ou adicionar novos elementos
 #Não podemos excluir elementos na Tupla, pois, uma vez declarada ela não pode ser modificada.
 #Podemos utilizar para agilizar o processamento.
 
-#Conjuntos: Se utiliza {} E os elementos não se repetem, são únicos
+#Conjuntos: Se utiliza {} E os elementos não se repetem, são únicos'
 
 conjunto_numero = {77,55,44,77,44}
 
-print(len(conjunto_numero)) # Exemplo irá imprimir somente uma única vez o numeral: 77
+print(len(conjunto_numero)) # Exemplo irá imprimir somente uma única vez o numeral: 77 e 44
 
 #Dicionário: É uma sequência de itens no modelo chave-valor. São representados por uma chave correspondente e os valores são únicos.
 
