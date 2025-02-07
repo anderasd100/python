@@ -1,0 +1,41 @@
+Exercícios de Input e Output em Python
+
+Saudação personalizada: Peça ao usuário o nome e imprima uma mensagem de boas-vindas, como: "Olá, [nome]!"
+
+Soma de dois números: Peça ao usuário para digitar dois números e imprima a soma deles.
+
+Conversão de temperatura: Peça ao usuário uma temperatura em Celsius e converta para Fahrenheit (F = C × 9/5 + 32).
+
+Calculando o quadrado de um número: Peça ao usuário um número e imprima o quadrado desse número.
+
+Nome e idade: Pergunte ao usuário seu nome e idade, e então imprima uma mensagem dizendo há quantos anos ele tem.
+
+Área do retângulo: Solicite ao usuário as dimensões (comprimento e largura) de um retângulo e imprima a área (área = comprimento × largura).
+
+Verificação de número par ou ímpar: Peça um número e informe se ele é par ou ímpar.
+
+Divisão com resto: Peça ao usuário dois números e imprima o quociente e o resto da divisão entre eles.
+
+Calculadora simples: Crie um programa que peça dois números e, em seguida, imprima a soma, subtração, multiplicação e divisão entre esses números.
+
+Exponenciação: Solicite ao usuário a base e o expoente e calcule a potência (base^expoente).
+
+Raiz quadrada: Peça ao usuário um número e imprima a raiz quadrada desse número.
+
+Conversão de minutos para horas: Pergunte ao usuário uma quantidade de minutos e converta para horas e minutos.
+
+Cálculo de IMC: Solicite ao usuário seu peso e altura e calcule o Índice de Massa Corporal (IMC) (IMC = peso / altura²).
+
+Multiplicação de dois números: Pergunte ao usuário dois números e imprima o resultado da multiplicação.
+
+Contagem regressiva: Crie uma contagem regressiva que começa em um número inserido pelo usuário e diminui até zero.
+
+Comprimento de uma string: Peça ao usuário uma frase e imprima o número de caracteres dessa frase.
+
+Contagem de palavras: Pergunte ao usuário uma frase e conte quantas palavras ela possui.
+
+Inverter uma palavra: Peça ao usuário uma palavra e imprima a palavra invertida.
+
+Divisível por 3: Pergunte ao usuário um número e verifique se ele é divisível por 3.
+
+Verificação de maioridade: Peça ao usuário sua idade e imprima se ele é maior de idade (18 anos ou mais).

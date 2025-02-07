@@ -1,0 +1,41 @@
+Questões sobre Variáveis e Literais em Python
+Defina uma variável chamada nome e atribua a ela o valor "Maria". Qual será o tipo dessa variável?
+
+Crie uma variável idade e atribua a ela o valor 25. O que acontece se você tentar atribuir a string "25" a essa mesma variável?
+
+Atribua o valor True à variável is_adulto. Qual é o tipo da variável is_adulto?
+
+Crie uma variável chamada salario e atribua a ela o valor 3500.75. Qual é o tipo da variável salario?
+
+A variável numero está com o valor 10. O que acontece se você tentar realizar a operação numero = numero + "5"?
+
+Crie uma variável chamada altura e atribua a ela o valor 1.75. Em seguida, crie uma outra variável peso e atribua o valor 68. Calcule o índice de massa corporal (IMC) utilizando a fórmula: IMC = peso / (altura ** 2). Qual é o valor do IMC?
+
+Crie uma variável fruta e atribua o valor "banana". Agora, altere o valor da variável fruta para "maçã". Qual será o novo valor de fruta?
+
+O valor da variável nota é 8.5. Crie uma variável aprovado e atribua o valor True caso a nota seja maior ou igual a 7. Caso contrário, atribua o valor False a aprovado. Qual será o valor de aprovado?
+
+Crie uma variável chamada nome_completo e atribua a ela o valor "João Silva". Como você pode acessar apenas o nome (João) dessa variável?
+
+Crie uma variável numero1 com valor 15 e uma variável numero2 com valor 5. Realize a operação de multiplicação entre essas duas variáveis e armazene o resultado em uma nova variável chamada produto. Qual é o valor de produto?
+
+A variável idade tem o valor 30. Faça uma operação de decremento (subtração) para que o valor de idade seja 29. Como você faria isso?
+
+Crie uma variável nome e atribua o valor "Lucas". Em seguida, crie uma segunda variável sobrenome com o valor "Souza". Concatenando essas duas variáveis, qual será o valor final?
+
+Você possui uma variável temperatura que vale 37.5. Crie uma variável status e atribua o valor "Febre" caso a temperatura seja maior ou igual a 37. Caso contrário, atribua "Saudável". O que será armazenado em status se a temperatura for 37.5?
+
+A variável a tem o valor 10 e a variável b tem o valor 20. O que acontece se você realizar a operação a = b e depois imprimir a?
+
+Crie uma variável divisao e atribua o valor da divisão entre 9 e 3. Qual será o valor armazenado na variável divisao?
+
+A variável numero tem o valor 100. Se você dividir numero por 4, o resultado será um número decimal. Como você pode forçar o Python a arredondar esse resultado para o inteiro mais próximo?
+
+Crie uma variável x com valor 10 e uma variável y com valor 2. Realize a operação de exponenciação entre essas duas variáveis (x elevado a y). Qual será o valor do resultado?
+
+Crie uma variável preco com o valor 99.99. Faça a conversão desse valor para inteiro, armazenando o resultado em uma variável chamada preco_inteiro. Qual será o valor de preco_inteiro?
+
+A variável divisivel tem o valor 25. Verifique se a variável divisivel é divisível por 5 e armazene True ou False em uma variável chamada resultado. Como você pode verificar isso?
+
+Crie uma variável frase com o valor "Python é divertido!". Como você pode transformar a frase inteira em letras maiúsculas?
+
