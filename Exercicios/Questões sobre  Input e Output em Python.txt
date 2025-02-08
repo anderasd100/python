@@ -1,5 +1,4 @@
 Exercícios de Input e Output em Python
-
 Saudação personalizada: Peça ao usuário o nome e imprima uma mensagem de boas-vindas, como: "Olá, [nome]!"
 
 Soma de dois números: Peça ao usuário para digitar dois números e imprima a soma deles.

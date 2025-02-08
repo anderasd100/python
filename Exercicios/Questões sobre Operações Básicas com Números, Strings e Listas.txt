@@ -1,0 +1,63 @@
+Exercícios de Operações Básicas com Números, Strings e Listas
+Operações com Números
+Soma de dois números: Peça ao usuário para digitar dois números e imprima a soma deles.
+
+Subtração de dois números: Solicite dois números e imprima a diferença entre eles.
+
+Multiplicação de dois números: Peça ao usuário dois números e imprima o produto entre eles.
+
+Divisão de dois números: Solicite ao usuário dois números e imprima o resultado da divisão (incluindo o quociente e o resto).
+
+Cálculo de média: Peça ao usuário três números e calcule a média aritmética deles.
+
+Conversão de unidades: Peça ao usuário uma medida em metros e converta para centímetros e milímetros.
+
+Potência de um número: Solicite ao usuário um número e calcule a potência dele elevada a um expoente fornecido pelo usuário.
+
+Raiz quadrada: Peça ao usuário um número e calcule a raiz quadrada dele.
+
+Fatorial: Solicite ao usuário um número e calcule o fatorial desse número (exemplo: 5! = 5 × 4 × 3 × 2 × 1).
+
+Operação de exponenciação: Peça ao usuário dois números e calcule a potência do primeiro número elevado ao segundo.
+
+Operações com Strings
+Contagem de caracteres: Peça ao usuário uma frase e imprima o número de caracteres dessa frase.
+
+Inverter uma string: Solicite ao usuário uma palavra e imprima a palavra invertida.
+
+Substituição de caracteres: Pergunte ao usuário uma frase e substitua uma letra específica por outra.
+
+Verificação de substring: Peça ao usuário uma palavra e verifique se uma substring (parte de uma palavra) está presente nela.
+
+Transformar para maiúsculas: Solicite ao usuário uma frase e imprima essa frase em letras maiúsculas.
+
+Transformar para minúsculas: Pergunte ao usuário uma frase e imprima a frase em letras minúsculas.
+
+Concatenar strings: Peça ao usuário o nome e sobrenome e imprima o nome completo concatenado.
+
+Remover espaços: Solicite ao usuário uma frase e remova os espaços no início e no final da string.
+
+Verificação de palíndromo: Peça ao usuário uma palavra e verifique se ela é um palíndromo (ou seja, se ela pode ser lida da mesma forma de trás para frente).
+
+Contagem de palavras: Solicite ao usuário uma frase e conte quantas palavras ela possui.
+
+Operações com Listas
+Adicionar elementos a uma lista: Crie uma lista vazia e adicione cinco números a ela. Em seguida, imprima a lista.
+
+Remover um elemento de uma lista: Crie uma lista com 5 números e remova o último número.
+
+Acessar elementos de uma lista: Peça ao usuário 5 números e imprima o segundo e o quarto número da lista.
+
+Verificar a presença de um elemento: Solicite ao usuário um número e verifique se ele está presente em uma lista de números.
+
+Ordenar uma lista: Peça ao usuário para digitar 5 números e imprima a lista ordenada em ordem crescente.
+
+Soma dos elementos de uma lista: Solicite ao usuário 5 números e calcule a soma de todos os elementos dessa lista.
+
+Multiplicar todos os elementos de uma lista: Crie uma lista com 5 números e calcule o produto de todos os elementos.
+
+Contagem de ocorrências de um elemento em uma lista: Pergunte ao usuário um número e conte quantas vezes esse número aparece em uma lista.
+
+Alterar um elemento em uma lista: Crie uma lista de 5 números e altere o terceiro número para outro valor.
+
+Fatiamento de listas: Crie uma lista com 10 números e imprima os elementos do meio da lista.
