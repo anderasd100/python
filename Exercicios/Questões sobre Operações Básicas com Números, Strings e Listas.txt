@@ -20,6 +20,7 @@ Fatorial: Solicite ao usuário um número e calcule o fatorial desse número (ex
 
 Operação de exponenciação: Peça ao usuário dois números e calcule a potência do primeiro número elevado ao segundo.
 
+
 Operações com Strings
 Contagem de caracteres: Peça ao usuário uma frase e imprima o número de caracteres dessa frase.
 
