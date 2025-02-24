@@ -25,3 +25,4 @@ Exercício 12: Crie uma string que contenha uma nova linha e um tabulador. Exiba
 Exercício 13: Crie uma string com o valor " python ". Use o método strip() para remover os espaços em branco do início e do final da string, e exiba o resultado.
 Exercício 14: Crie uma variável chamada frase com o valor "Eu gosto de aprender Python". Use o método replace() para substituir a palavra "aprender" por "ensinar" e exiba a nova frase.
 Exercício 15: Crie uma variável texto com o valor "aprendendo Python". Use o método upper() para transformar todas as letras em maiúsculas e exiba a string resultante."""
+
